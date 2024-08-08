@@ -34,7 +34,9 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
 }
+
 /* Different Shapes */
+
 #circle{
     border-radius: 50%;
 }
@@ -42,6 +44,8 @@ h1{
 #diamond{
     rotate: 45deg;
 }
+
+/* Only change made at diamond shape */
 
 #diamond h1{
     rotate: -45deg;
